@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737123468110",
+    "firebase_url": "https://shri-baba-meherdas-trust.firebaseio.com",
+    "project_id": "shri-baba-meherdas-trust",
+    "storage_bucket": "shri-baba-meherdas-trust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737123468110:android:c2e074dd5266d3d95a141f",
+        "android_client_info": {
+          "package_name": "com.mandir.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737123468110-eim69bh5r77rccges82fioc2388v83lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_UIRA2Ru-g--rpjN6PyQQ5yGQDwp0aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737123468110-eim69bh5r77rccges82fioc2388v83lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
